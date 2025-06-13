@@ -1,39 +1,36 @@
-ChileBit / BlinkTrade (2014)
+Cambio de SurBTC → Buda.com (2018)
+https://blog.buda.com/por-que-buda-com-es-el-nuevo-nombre-de-surbtc/
+https://www.criptonoticias.com/mercados/casa-cambio-latinoamericana-surbtc-ahora-llamara-buda/
+
+ChileBit (primer exchange 2014)
 https://bitcoinmagazine.com/markets/chilebit-launches-brings-exchange-services-latin-america-1405164135
 
-SurBTC (Start-Up Chile, 2014-15)
-https://blog.startupchile.org/surbtc-the-first-bitcoin-exchange-supported-by-a-government
-
-Cambio de marca SurBTC → Buda.com (2018)
-https://www.latercera.com/pulso/noticia/surbtc-cambia-nombre-ahora-buda-com/39145/
-
-CryptoMKT inicio operaciones (2016)
+CryptoMarket (CryptoMKT) – Historia y misión
 https://www.cryptomkt.com/es/cl/about-us
 
-OrionX lanzamiento + inversión Bitfinex (2023)
+OrionX + inversión Bitfinex (2023)
 https://www.df.cl/tech/orionx-recibe-inversion-de-bitfinex
 
 Prosus Money white-paper
 https://prosusmoney.org/whitepaper.pdf
 
-Chaucha proyecto educativo (2017)
+Chaucha proyecto educativo
 https://chaucha.cl/
 
-Luka moneda criolla (2018)
+Luka, “la crypto criolla”
 https://www.emol.com/noticias/tecnologia/2018/01/25/892044/luka-la-primera-criptomoneda-chilena-que-busca-facilitar-pagos.html
 
-CLP Coin (Polygon) anuncio (2023)
+CLP Coin (stablecoin en Polygon)
 https://medium.com/@clpcoin/introducing-clp-coin-the-first-chilean-peso-stablecoin-3e8dce5a9f0c
 
-CLP Digital en Stellar (2024)
+CLP Digital (stablecoin en Stellar)
 https://clpdigital.io/docs/proof-of-reserves
 
-ASADAO y token ASADO (2024)
+ASADAO / token ASADO
 https://lu.ma/asadao-santiago
-https://dune.com/queries/1752459
 
-ChileDAO white-paper (2025 borrador)
-https://mirror.xyz/chiledao.eth/0xabcdef1234567890
+ChileDAO white-paper (2025, Mirror)
+https://mirror.xyz/chiledao.eth/0xabcdef1234567890 <!-- reemplaza con URL final cuando se publique -->
 
-TellusCoop y Tellus Token (2025)
+TellusCoop & Tellus Token
 https://telluscoop.cl/token
