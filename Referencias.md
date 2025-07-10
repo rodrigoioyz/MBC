@@ -73,3 +73,5 @@
 - **HERDAO CHILE**
   - 👩‍💻 <https://www.instagram.com/herdao_chile/>
 
+- **Klee market**
+  - 🎨 <https://www.kleemarket.cl/>
