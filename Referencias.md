@@ -1,4 +1,4 @@
-# Referencias verificadas (jun-2025)
+# Referencias verificadas (jul-2025)
 
 ## Exchanges chilenos
 
@@ -40,4 +40,24 @@
   - <https://tnk00.notion.site/ChileDAO-190f32304479804b8961e696494bb9ed>
 
 - **TellusCoop & Tellus Token**
-  - <https://telluscoop.cl/token>
+  - <https://blog.telluscoop.com/>
+
+- **Campus on chain**
+  - <https://campusonchain.org/>
+
+- **PaltaLabs**
+  - <https://paltalabs.io/>
+
+- **Skipo**
+  - <https://skipo.com/es/>
+
+- **OpenBeauchef**
+  - <https://openbeauchef.cl/>
+
+- **Cooperativa Local**
+  - <https://cooperativalocal.org/en/>
+
+- **DobProtocol**
+  - <https://www.dobprotocol.com/>
+    
+
