@@ -1,76 +1,129 @@
-# ✅ Resultados del proyecto  
-**Mapping Blockchain Communities in Chile – Cardano Ambassador Project**
+✅ Resultados del proyecto
 
-Este documento resume los avances logrados durante la primera etapa del proyecto enfocado en conectar comunidades blockchain en Chile y presentar las capacidades de Cardano.
+Mapping Blockchain Communities in Chile – Cardano Ambassador Project
 
----
+Este documento resume los avances logrados durante la primera etapa del proyecto, enfocado en conectar comunidades blockchain en Chile y presentar las capacidades de Cardano.
 
-## 🎯 Objetivos cumplidos o parcialmente cumplidos
+🎯 Objetivos cumplidos o parcialmente cumplidos
+Introducir las capacidades únicas de Cardano a comunidades locales
 
-### Introducir las capacidades únicas de Cardano a comunidades locales  
-**Estado: Cumplido**  
-Participé en dos eventos relevantes donde hablé sobre Cardano, Catalyst y gobernanza:
+Estado: Cumplido
+Se presentó Cardano en cuatro actividades presenciales durante 2025: dos eventos multichain y dos sesiones universitarias del curso Aplicaciones de Blockchain y Criptomonedas de la Universidad de Chile.
 
-- **21 de junio de 2025** – Festival **IME_LIMK** en el Centro Cultural Matucana 100.  
-  > Compartí sobre gobernanza, Catalyst, tesorería, DReps y democracia digital ante más de 40 asistentes.  
-  > [Registro en X](https://x.com/ChileStakepo/status/1936509620509405421?t=voFCZVrEQTGuSalNGxa9tA&s=19)
+21 de junio de 2025 – Festival IME_LIMK, Matucana 100
 
-- **7 de julio de 2025** – Evento **Blockchain con Stellar** en la Universidad de Chile.  
-  > Realicé networking con comunidades como Stellar, Tellus, PaltaLabs, Skipo y Campus on Chain, presentando las capacidades de Cardano, Catalyst y el modelo de gobernanza.  
-  > [Registro en X](https://x.com/ChileStakepo/status/1942294645620277360?t=whYN2VD6lqZ5aVVZDnpztQ&s=19)
+Exposición sobre gobernanza, Catalyst, tesorería, DReps y democracia digital ante más de 40 asistentes.
+🔗 https://x.com/ChileStakepo/status/1936509620509405421
 
----
+7 de julio de 2025 – Blockchain con Stellar, Universidad de Chile
 
-### Promover el aprendizaje y el diálogo abierto entre ecosistemas blockchain  
-**Estado: Cumplido**  
-Participé en espacios multichain donde se promovió el diálogo entre comunidades como Stellar, ChileDAO, Tellus, Campus on Chain y Skipo. Se abordaron desafíos comunes y diferentes enfoques tecnológicos y organizativos.
+Networking con Stellar, Tellus, PaltaLabs, Skipo y Campus on Chain. Presenté el modelo de gobernanza de Cardano, Catalyst y su enfoque de interoperabilidad.
+🔗 https://x.com/ChileStakepo/status/1942294645620277360
 
----
+24 de octubre de 2025 – Clase universitaria: DAOs y gobernanza, Universidad de Chile
 
-### Crear presentaciones educativas sobre Cardano (protocolo, gobernanza, interoperabilidad)  
-**Estado: Cumplido**  
-Durante ambos eventos, compartí contenido técnico sobre Cardano, sus fundamentos de gobernanza, el protocolo y la interoperabilidad. Se generó interés real y se resolvieron dudas en tiempo real.
+Junto con Gonzalo (ChileDAO), realizamos un ejercicio práctico de gobernanza mediante votaciones participativas.
+Asistieron 27 estudiantes, además de un representante de BASE LATAM.
+🔗 https://x.com/ChileStakepo/status/1981812713849311724
 
----
+21 de noviembre de 2025 – Clase universitaria: Smart Contracts & Aiken, Universidad de Chile
 
-### Fomentar sinergias y conexiones que puedan derivar en futuras colaboraciones entre comunidades locales  
-**Estado: Cumplido**  
-A partir del evento en la Universidad de Chile surgió una invitación a colaborar en la organización de un **evento multichain** para el segundo semestre, así como la exploración de un posible laboratorio **ALBA** en esa institución.
+Presentación sobre la evolución de los contratos inteligentes, seguridad y demostración técnica con Aiken.
+Asistieron 33 estudiantes.
+🔗 https://www.linkedin.com/posts/rodrigo-oyarzun-chil_blockchain-smartcontracts-cardano-activity-7398723551848976385-RzYs
 
----
+Promover el aprendizaje y el diálogo abierto entre ecosistemas blockchain
 
-### Conseguir espacios gratuitos como universidades o centros culturales  
-**Estado: Parcialmente cumplido**  
-Si bien no gestioné directamente espacios como organizador, la participación en el evento de la U. de Chile derivó en una **invitación formal a co-organizar un evento multichain**, lo que abre la puerta para cumplir plenamente este objetivo más adelante.
+Estado: Cumplido
+El proyecto generó interacción multichain y académica con comunidades como:
+Stellar, ChileDAO, Tellus, PaltaLabs, Dob Protocol, Skipo y Campus on Chain.
 
----
+Las clases en la Universidad de Chile reforzaron la educación sobre DAOs, gobernanza, interoperabilidad y contratos inteligentes en Cardano.
 
-## 🗺️ Actividades parcialmente logradas
+Crear presentaciones educativas sobre Cardano (protocolo, gobernanza, interoperabilidad)
 
-### Organizar 3 eventos presenciales, conseguir espacios gratuitos y atraer asistentes mediante difusión  
-**Estado: No logrado (con avance parcial)**  
-Durante los primeros meses del proyecto se realizaron tareas de scouting y contacto con universidades. Sin embargo, varios factores impidieron avanzar con los eventos presenciales planificados:
+Estado: Cumplido
+Durante los cuatro eventos se presentaron contenidos educativos que incluyeron:
 
-- Cambio en el equipo institucional de la universidad aliada, lo que obligó a reiniciar el proceso de vinculación.
-- Viaje a México que consumió cerca de 15 días.
-- Contagio de Covid tras el viaje, lo que dificultó continuar gestiones durante junio.
+Modelo de gobernanza de Cardano
 
-Aun así, el diseño del proyecto sigue vigente y existe interés institucional para retomar su implementación en el segundo semestre.
+Rol de los DReps
 
----
+Funcionamiento del Tesoro de Catalyst
 
-### Crear un mapa comunitario y realizar scouting de actores locales  
-**Estado: Parcialmente cumplido**  
-Se desarrolló un primer mapeo de comunidades y actores relevantes del ecosistema blockchain en Santiago. Este material está disponible en el siguiente repositorio:
+Democracia digital y participación ciudadana
 
-🔗 [Mapa de comunidades – GitHub](https://github.com/rodrigoioyz/MBC/tree/main)
+Seguridad y diseño de contratos inteligentes
 
-Este mapeo es resultado directo del trabajo de scouting inicial, y servirá de base para futuras actividades presenciales.
+Ejemplos prácticos con Aiken
 
----
+Las sesiones universitarias permitieron aclarar dudas técnicas en tiempo real y conectar teoría con práctica.
 
-## 📌 Conclusión
+Fomentar sinergias y conexiones que puedan derivar en futuras colaboraciones
 
-Aunque no se realizaron los tres eventos presenciales propuestos, el proyecto cumplió con objetivos clave relacionados con visibilidad, diálogo y construcción de redes. La participación en eventos relevantes posicionó a Cardano en espacios multichain y abrió oportunidades concretas para continuar con el plan original, incluyendo posibles alianzas institucionales para eventos y laboratorios.
+Estado: Cumplido
+El proyecto generó oportunidades concretas:
 
+Invitación para co-organizar un evento multichain con la Universidad de Chile.
+
+Conversaciones para implementar un laboratorio ALBA UChile.
+
+Conexión directa con PaltaLabs en el Cardano Summit Rio.
+
+Integración con comunidades DAO activas como ChileDAO y Tellus.
+
+Conseguir espacios gratuitos como universidades o centros culturales
+
+Estado: Parcialmente cumplido
+Los espacios utilizados (Matucana 100 y FCFM UChile) fueron por invitación y no gestionados directamente.
+Sin embargo, las nuevas alianzas institucionales permiten proyectar que este objetivo se cumplirá plenamente en la segunda etapa del proyecto.
+
+🗺️ Actividades parcialmente logradas
+Organizar 3 eventos presenciales, coordinar sedes y atraer asistentes
+
+Estado: No logrado (con avance parcial)
+
+Aunque no se realizaron los tres eventos propios planificados, sí se avanzó en:
+
+Participar activamente en cuatro actividades presenciales.
+
+Establecer relaciones con universidades, DAOs y proyectos Web3.
+
+Recibir invitaciones formales para actividades futuras.
+
+Los retrasos se debieron a factores externos:
+
+Cambios en equipos institucionales de la universidad aliada.
+
+Viaje a México durante 15 días.
+
+Contagio de Covid que afectó la continuidad del trabajo en junio.
+
+El diseño del proyecto sigue vigente y cuenta con interés institucional para retomarse en la segunda mitad de 2025.
+
+Crear un mapa comunitario y scouting de actores locales
+
+Estado: Parcialmente cumplido
+
+El mapeo inicial de comunidades blockchain en Santiago fue realizado y está alojado en el repositorio:
+
+🔗 https://github.com/rodrigoioyz/MBC/tree/main
+
+Este mapa servirá como base para la organización de eventos y la articulación del ecosistema.
+
+📌 Conclusión
+
+Aunque los tres eventos presenciales iniciales no se realizaron en esta etapa, el proyecto sí alcanzó hitos clave:
+
+Mayor presencia de Cardano en espacios multichain.
+
+Educación directa a 60 estudiantes universitarios sobre gobernanza, DAOs y contratos inteligentes.
+
+Nuevas alianzas con actores relevantes del ecosistema.
+
+Puentes creados entre comunidades locales que antes no interactuaban con Cardano.
+
+Posibilidad concreta de continuar con eventos y un laboratorio académico.
+
+La base del proyecto está más sólida que al inicio.
 El trabajo continúa.
