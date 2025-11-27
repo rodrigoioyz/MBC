@@ -1,59 +1,88 @@
-# Participación en eventos – Proyecto de Embajador Cardano 🇨🇱
+Participación en eventos – Proyecto de Embajador Cardano 🇨🇱
+
+Registro de actividades presenciales · Mapping Blockchain Communities in Chile
 
 Este documento recoge las experiencias y actividades realizadas en el marco del proyecto “Mapping Blockchain Communities in Chile”, como parte del programa de embajadores de Cardano.
 
----
+🗓️ Evento – IME_LIMK: Festival DAO
 
-## 🗓️ Evento – IME_LIMK: Festival DAO  
-📍 Centro Cultural Matucana 100, Santiago  
-📅 21 de junio de 2025  
+📍 Centro Cultural Matucana 100, Santiago
+📅 21 de junio de 2025
 
-Este evento fue organizado por Cooperativa Local junto a Clarity DAO como parte del Festival IME Link, una experiencia cultural y musical autogestionada por una DAO local.
+Evento organizado por Cooperativa Local junto a Clarity DAO como parte del Festival IME Link, un espacio cultural y musical autogestionado por una DAO local.
 
-Durante la jornada participé como expositor en el espacio “DAO Festival”, donde compartí con más de 40 asistentes una presentación sobre el ecosistema de Cardano. Hablé sobre su modelo de gobernanza, los Delegados Representativos (DReps), el Tesoro de Catalyst y las posibilidades de participación ciudadana a través de la democracia digital.
+Participé como expositor en la sección “DAO Festival”, presentando el ecosistema de Cardano ante más de 40 asistentes. Hablé sobre gobernanza, DReps, Catalyst, tesorería y participación ciudadana mediante mecanismos de democracia digital.
 
-El ambiente fue diverso, artístico y profundamente orientado a modelos colaborativos. La recepción fue positiva y permitió que Cardano estuviera presente en un espacio donde convergen cultura, gobernanza descentralizada y creatividad.
+El ambiente fue artístico, colaborativo y alineado con modelos de organización descentralizada, lo que permitió que Cardano estuviera presente en un espacio diverso orientado a la experimentación comunitaria.
 
-🔗 [Ver publicación del evento](https://x.com/ChileStakepo/status/1936509620509405421)
+🔗 Ver publicación del evento
 
----
+🗓️ Evento – Blockchain con Stellar
 
-## 🗓️ Evento – Blockchain con Stellar  
-📍 Facultad de Ciencias Físicas y Matemáticas, Universidad de Chile  
-📅 7 de julio de 2025  
+📍 Facultad de Ciencias Físicas y Matemáticas, Universidad de Chile
+📅 7 de julio de 2025
 
-Fui invitado a participar en este evento orientado a explorar la Web3 desde distintas perspectivas: finanzas descentralizadas, gobernanza, cooperación y nuevos modelos económicos. Asistieron estudiantes, emprendedores, profesores y actores del ecosistema local.
+Participé en este encuentro dedicado a explorar la Web3 desde perspectivas técnicas, económicas y de gobernanza. Asistieron estudiantes, emprendedores, docentes y distintos actores del ecosistema local.
 
-En este contexto, representé a Cardano en distintas conversaciones informales con los asistentes, estableciendo vínculos con comunidades como Tellus Cooperative, Dob Protocol, PaltaLabs, y Skipo. También surgió la posibilidad de colaborar con la universidad en la organización de un evento multichain para el segundo semestre, además de explorar la creación de un laboratorio ALBA en la institución.
+Representé a Cardano en conversaciones informales, generando vínculos con Tellus Cooperative, Dob Protocol, PaltaLabs, Skipo y Campus on Chain. A partir de estas interacciones surgió la posibilidad de organizar un evento multichain en el segundo semestre y explorar la creación de un laboratorio ALBA dentro de la misma universidad.
 
-La jornada concluyó con un panel de discusión sobre fintech y un espacio de networking que permitió sembrar nuevas oportunidades de colaboración.
+🔗 Ver publicación de Stellar Chile
 
-🔗 [Ver publicación de Stellar Chile](https://x.com/Stellar_Chile/status/1942308479290540054)  
-🔗 [Ver publicación de Chile Stakepo](https://x.com/ChileStakepo/status/1942294645620277360)
+🔗 Ver publicación de Chile Stakepo
 
----
+🗓️ Evento – Clase “Aplicaciones de Blockchain y Criptomonedas” (Sesión 1)
 
-## ✅ Objetivos Cumplidos o Parcialmente Cumplidos
+📍 Facultad de Ciencias Físicas y Matemáticas, Universidad de Chile
+📅 24 de octubre de 2025
 
-### Introducir las capacidades únicas de Cardano a comunidades locales  
-**Estado: Cumplido**  
-Participé en dos eventos relevantes donde hablé sobre Cardano, Catalyst y gobernanza.  
-El 21 de junio de 2025 asistí al festival IME_LIMK en el Centro Cultural Matucana 100.  
-El 7 de julio participé en el evento "Blockchain con Stellar" en la Universidad de Chile.  
-Ambos eventos permitieron presentar las capacidades de Cardano ante diversas comunidades y asistentes.
+Fui invitado por los profesores Ignacio y Vicente a participar en la clase del curso Aplicaciones de Blockchain y Criptomoneda del Departamento de Ingeniería Industrial.
 
-### Promover el aprendizaje y el diálogo abierto entre ecosistemas blockchain  
-**Estado: Cumplido**  
-Participé activamente en espacios multichain donde se generaron diálogos abiertos con comunidades como Stellar, ChileDAO, Tellus, Campus on Chain y Skipo. Se promovió la discusión sobre distintos enfoques y desafíos comunes.
+Junto con Gonzalo (ChileDAO), compartimos una sesión práctica enfocada en DAOs y gobernanza descentralizada. Se realizó un ejercicio de votación donde los estudiantes participaron como una DAO simulada, debiendo deliberar y tomar decisiones colectivas.
 
-### Crear presentaciones educativas sobre Cardano (protocolo, gobernanza, interoperabilidad)  
-**Estado: Cumplido**  
-Durante los eventos en los que participé, compartí contenido educativo sobre Cardano, con énfasis en su diseño de protocolo, gobernanza y el proyecto Catalyst. Se generó interés y se resolvieron dudas entre los participantes.
+Asistieron aproximadamente 27 estudiantes, además de un desarrollador de negocios de BASE para Latinoamérica, quien también aportó perspectivas sobre ecosistemas Web3.
 
-### Fomentar sinergias y conexiones que puedan derivar en futuras colaboraciones entre comunidades locales  
-**Estado: Cumplido**  
-A partir de los eventos surgieron oportunidades de colaboración, como la propuesta de organizar un evento multichain junto a la Universidad de Chile y el interés en explorar la creación de un laboratorio ALBA en dicha institución.
+🔗 Registro en X
 
-### Conseguir espacios gratuitos como universidades o centros culturales  
-**Estado: Parcialmente cumplido**  
-No gestioné directamente los espacios para realizar los eventos propuestos en el proyecto. Sin embargo, fui invitado a colaborar en la organización de un evento multichain en la Universidad de Chile, lo que abre la posibilidad de cumplir este objetivo a futuro.
+🗓️ Evento – Clase “Aplicaciones de Blockchain y Criptomonedas” (Sesión 2)
+
+📍 Facultad de Ciencias Físicas y Matemáticas, Universidad de Chile
+📅 21 de noviembre de 2025
+
+En esta segunda participación con los profesores Ignacio y Vicente, la sesión estuvo dedicada a contratos inteligentes, su historia y evolución, con enfoque en seguridad y buenas prácticas.
+
+Presenté cómo Cardano aborda la ejecución de contratos mediante eUTxO y analicé junto al curso un ejemplo en Aiken, explicando su modelo funcional y las ventajas de su diseño. Hubo alta participación y asistencia aproximada de 33 estudiantes.
+
+🔗 Publicación en LinkedIn
+
+🗓️ Conexiones del ecosistema – Cardano Summit Rio
+
+📍 Museo do Amanhã, Río de Janeiro
+📅 15 de octubre de 2025
+
+Durante el Cardano Summit 2025 en Río de Janeiro tuve la oportunidad de conocer a Esteban Iglesias, fundador de Palta Labs, con quien conversamos sobre modelos de cooperación y posibles actividades para la región. Este vínculo refuerza la red de contactos clave para futuras acciones multichain y colaborativas en Chile.
+
+✅ Objetivos Cumplidos o Parcialmente Cumplidos
+Introducir las capacidades únicas de Cardano a comunidades locales
+
+Estado: Cumplido
+Presentaciones y diálogos sobre gobernanza, Catalyst, interoperabilidad y participación ciudadana se realizaron en todos los eventos listados entre junio y noviembre de 2025.
+
+Promover el aprendizaje y el diálogo abierto entre ecosistemas blockchain
+
+Estado: Cumplido
+Interacciones significativas con comunidades como Stellar, ChileDAO, Tellus, PaltaLabs, Skipo, Dob Protocol y Campus on Chain.
+
+Crear presentaciones educativas sobre Cardano (protocolo, gobernanza, interoperabilidad)
+
+Estado: Cumplido
+Se entregó contenido educativo en distintas instancias, incluyendo clases universitarias con ejercicios prácticos.
+
+Fomentar sinergias y conexiones que puedan derivar en futuras colaboraciones entre comunidades locales
+
+Estado: Cumplido
+Surgió una invitación formal para co-organizar un evento multichain con la Universidad de Chile y conversaciones para un laboratorio ALBA.
+
+Conseguir espacios gratuitos como universidades o centros culturales
+
+Estado: Parcialmente cumplido
+Aunque los espacios utilizados fueron por invitación, se abrieron puertas para futuras actividades organizadas directamente en la universidad.
