@@ -1,88 +1,120 @@
-Participación en eventos – Proyecto de Embajador Cardano 🇨🇱
+👥 Participación en eventos – Proyecto de Embajador Cardano 🇨🇱
 
 Registro de actividades presenciales · Mapping Blockchain Communities in Chile
 
-Este documento recoge las experiencias y actividades realizadas en el marco del proyecto “Mapping Blockchain Communities in Chile”, como parte del programa de embajadores de Cardano.
+Este documento reúne las actividades realizadas como parte del proyecto Mapping Blockchain Communities in Chile, dentro del programa de Embajadores de Cardano.
 
-🗓️ Evento – IME_LIMK: Festival DAO
+🎨 Evento – IME_LIMK: Festival DAO
 
 📍 Centro Cultural Matucana 100, Santiago
 📅 21 de junio de 2025
 
-Evento organizado por Cooperativa Local junto a Clarity DAO como parte del Festival IME Link, un espacio cultural y musical autogestionado por una DAO local.
+Participé como expositor en el espacio DAO Festival, dentro del Festival IME Link organizado por Cooperativa Local y Clarity DAO. Asistieron más de 40 personas de perfiles creativos, culturales y tecnológicos.
 
-Participé como expositor en la sección “DAO Festival”, presentando el ecosistema de Cardano ante más de 40 asistentes. Hablé sobre gobernanza, DReps, Catalyst, tesorería y participación ciudadana mediante mecanismos de democracia digital.
+Hablé sobre:
 
-El ambiente fue artístico, colaborativo y alineado con modelos de organización descentralizada, lo que permitió que Cardano estuviera presente en un espacio diverso orientado a la experimentación comunitaria.
+Gobernanza en Cardano
 
-🔗 Ver publicación del evento
+DReps
 
-🗓️ Evento – Blockchain con Stellar
+Catalyst y tesorería
+
+Democracia digital y participación ciudadana on-chain
+
+El ambiente fue colaborativo, experimental y alineado con modelos descentralizados.
+
+🔗 Publicación del evento:
+https://x.com/ChileStakepo/status/1936509620509405421
+
+⭐ Evento – Blockchain con Stellar
 
 📍 Facultad de Ciencias Físicas y Matemáticas, Universidad de Chile
 📅 7 de julio de 2025
 
-Participé en este encuentro dedicado a explorar la Web3 desde perspectivas técnicas, económicas y de gobernanza. Asistieron estudiantes, emprendedores, docentes y distintos actores del ecosistema local.
+Participé como invitado en un encuentro dedicado a tendencias Web3, finanzas descentralizadas y gobernanza. Se generaron conversaciones con comunidades como:
+Tellus Cooperative, PaltaLabs, Dob Protocol, Skipo y Campus on Chain.
 
-Representé a Cardano en conversaciones informales, generando vínculos con Tellus Cooperative, Dob Protocol, PaltaLabs, Skipo y Campus on Chain. A partir de estas interacciones surgió la posibilidad de organizar un evento multichain en el segundo semestre y explorar la creación de un laboratorio ALBA dentro de la misma universidad.
+Se abrió la posibilidad de:
 
-🔗 Ver publicación de Stellar Chile
+Co-organizar un evento multichain en el segundo semestre
 
-🔗 Ver publicación de Chile Stakepo
+Explorar un laboratorio ALBA UChile
 
-🗓️ Evento – Clase “Aplicaciones de Blockchain y Criptomonedas” (Sesión 1)
+🔗 Publicación de Stellar Chile:
+https://x.com/Stellar_Chile/status/1942308479290540054
+
+🔗 Publicación de Chile Stakepo:
+https://x.com/ChileStakepo/status/1942294645620277360
+
+🏫 Clase universitaria – Aplicaciones de Blockchain y Criptomoneda (Sesión 1)
 
 📍 Facultad de Ciencias Físicas y Matemáticas, Universidad de Chile
 📅 24 de octubre de 2025
 
-Fui invitado por los profesores Ignacio y Vicente a participar en la clase del curso Aplicaciones de Blockchain y Criptomoneda del Departamento de Ingeniería Industrial.
+Invitado por los profesores Ignacio y Vicente del Departamento de Ingeniería Industrial.
 
-Junto con Gonzalo (ChileDAO), compartimos una sesión práctica enfocada en DAOs y gobernanza descentralizada. Se realizó un ejercicio de votación donde los estudiantes participaron como una DAO simulada, debiendo deliberar y tomar decisiones colectivas.
+Junto a Gonzalo (ChileDAO) realizamos una dinámica sobre:
 
-Asistieron aproximadamente 27 estudiantes, además de un desarrollador de negocios de BASE para Latinoamérica, quien también aportó perspectivas sobre ecosistemas Web3.
+DAOs
 
-🔗 Registro en X
+Votación descentralizada
 
-🗓️ Evento – Clase “Aplicaciones de Blockchain y Criptomonedas” (Sesión 2)
+Gobernanza práctica en el aula
+
+Asistieron 27 estudiantes, además de un representante de BASE LATAM.
+
+🔗 Registro en X:
+https://x.com/ChileStakepo/status/1981812713849311724
+
+🧠 Clase universitaria – Aplicaciones de Blockchain y Criptomoneda (Sesión 2)
 
 📍 Facultad de Ciencias Físicas y Matemáticas, Universidad de Chile
 📅 21 de noviembre de 2025
 
-En esta segunda participación con los profesores Ignacio y Vicente, la sesión estuvo dedicada a contratos inteligentes, su historia y evolución, con enfoque en seguridad y buenas prácticas.
+Segunda sesión con los mismos docentes. Esta vez enfocada en:
 
-Presenté cómo Cardano aborda la ejecución de contratos mediante eUTxO y analicé junto al curso un ejemplo en Aiken, explicando su modelo funcional y las ventajas de su diseño. Hubo alta participación y asistencia aproximada de 33 estudiantes.
+Historia de los contratos inteligentes
 
-🔗 Publicación en LinkedIn
+Seguridad en diferentes ecosistemas
 
-🗓️ Conexiones del ecosistema – Cardano Summit Rio
+Análisis de un contrato en Aiken
 
-📍 Museo do Amanhã, Río de Janeiro
+Ventajas del modelo eUTxO
+
+Asistieron 33 estudiantes, con alta participación y preguntas técnicas.
+
+🔗 Publicación en LinkedIn:
+https://www.linkedin.com/posts/rodrigo-oyarzun-chil_blockchain-smartcontracts-cardano-activity-7398723551848976385-RzYs
+
+🌎 Conexión de ecosistema – Cardano Summit Río de Janeiro
+
+📍 Museu do Amanhã, Rio de Janeiro
 📅 15 de octubre de 2025
 
-Durante el Cardano Summit 2025 en Río de Janeiro tuve la oportunidad de conocer a Esteban Iglesias, fundador de Palta Labs, con quien conversamos sobre modelos de cooperación y posibles actividades para la región. Este vínculo refuerza la red de contactos clave para futuras acciones multichain y colaborativas en Chile.
+Durante el Cardano Summit conocí a Esteban Iglesias, fundador de Palta Labs, iniciando conversaciones sobre futuras colaboraciones y sinergias entre Chile y LATAM en proyectos multichain.
 
 ✅ Objetivos Cumplidos o Parcialmente Cumplidos
-Introducir las capacidades únicas de Cardano a comunidades locales
+🎯 Introducir las capacidades únicas de Cardano a comunidades locales
 
 Estado: Cumplido
-Presentaciones y diálogos sobre gobernanza, Catalyst, interoperabilidad y participación ciudadana se realizaron en todos los eventos listados entre junio y noviembre de 2025.
+Charlas, clases y eventos donde presenté gobernanza, Catalyst, DReps y participación ciudadana.
 
-Promover el aprendizaje y el diálogo abierto entre ecosistemas blockchain
-
-Estado: Cumplido
-Interacciones significativas con comunidades como Stellar, ChileDAO, Tellus, PaltaLabs, Skipo, Dob Protocol y Campus on Chain.
-
-Crear presentaciones educativas sobre Cardano (protocolo, gobernanza, interoperabilidad)
+💬 Promover aprendizaje y diálogo multichain
 
 Estado: Cumplido
-Se entregó contenido educativo en distintas instancias, incluyendo clases universitarias con ejercicios prácticos.
+Participación activa con Stellar, ChileDAO, Tellus, PaltaLabs, Dob Protocol, Skipo, Campus on Chain.
 
-Fomentar sinergias y conexiones que puedan derivar en futuras colaboraciones entre comunidades locales
+📚 Crear presentaciones educativas sobre Cardano
 
 Estado: Cumplido
-Surgió una invitación formal para co-organizar un evento multichain con la Universidad de Chile y conversaciones para un laboratorio ALBA.
+Talleres y ejercicios prácticos en clases universitarias.
 
-Conseguir espacios gratuitos como universidades o centros culturales
+🤝 Fomentar sinergias y futuras colaboraciones
+
+Estado: Cumplido
+Invitación formal a co-organizar un evento multichain en U. de Chile y posibilidad de un laboratorio ALBA.
+
+🏛️ Conseguir espacios gratuitos (universidades / centros culturales)
 
 Estado: Parcialmente cumplido
-Aunque los espacios utilizados fueron por invitación, se abrieron puertas para futuras actividades organizadas directamente en la universidad.
+Los espacios fueron por invitación; existe apertura para organizar actividades propias en el segundo semestre.
