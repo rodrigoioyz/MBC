@@ -102,7 +102,7 @@ Charlas, clases y eventos donde presenté gobernanza, Catalyst, DReps y particip
 💬 Promover aprendizaje y diálogo multichain
 
 Estado: Cumplido
-Participación activa con Stellar, ChileDAO, Tellus, PaltaLabs, Dob Protocol, Skipo, Campus on Chain.
+Interacciones significativas con Stellar, ChileDAO, Tellus, PaltaLabs, Dob Protocol, Skipo, Campus on Chain.
 
 📚 Crear presentaciones educativas sobre Cardano
 
@@ -112,7 +112,7 @@ Talleres y ejercicios prácticos en clases universitarias.
 🤝 Fomentar sinergias y futuras colaboraciones
 
 Estado: Cumplido
-Invitación formal a co-organizar un evento multichain en U. de Chile y posibilidad de un laboratorio ALBA.
+Invitación formal a co-organizar un evento multichain en U. de Chile y conversaciones para un laboratorio ALBA.
 
 🏛️ Conseguir espacios gratuitos (universidades / centros culturales)
 
